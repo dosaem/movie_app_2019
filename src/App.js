@@ -11,6 +11,12 @@ const foodILike = [
     name: "Samgyeopsal",
     image:
       "http://image.chosun.com/sitedata/image/201902/24/2019022401106_0.jpg"
+  },
+  {
+    id: 3,
+    name: "budae",
+    image:
+      "http://recipe1.ezmember.co.kr/cache/recipe/2018/03/02/67f79dfc1039415b70f9649fd4f996901.jpg"
   }
 ];
 
